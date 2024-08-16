@@ -1,0 +1,15 @@
+{
+  "name": "integracaoentregacontinua",
+  "version": "1.0.0",
+  "description": "Exercício Prático: Estruturação de Pipelines de CI/CD com GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test":"jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
